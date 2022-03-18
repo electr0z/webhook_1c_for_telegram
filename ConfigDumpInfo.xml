@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.9">
+	<ConfigVersions>
+		<Metadata name="CommonModule.тм_ChatBot" id="a4e50d2e-5df4-4b62-b51e-71c1700438da" configVersion="a31df312f13b7549a2611bab3e6474a100000000"/>
+		<Metadata name="CommonModule.тм_ChatBot.Module" id="a4e50d2e-5df4-4b62-b51e-71c1700438da.0" configVersion="8c373656f64d65408c65dc765c566dd200000000"/>
+		<Metadata name="CommonModule.тм_ОбщиеФункции" id="8f249ab1-5314-45ce-b847-28b82c052d34" configVersion="307b4f515fd6ff43add7994ae1aa991200000000"/>
+		<Metadata name="CommonModule.тм_ОбщиеФункции.Module" id="8f249ab1-5314-45ce-b847-28b82c052d34.0" configVersion="b71ee5f73a61564dbbbe7da18c0c0f8800000000"/>
+		<Metadata name="CommonModule.тм_РаботаСJSON" id="c5475724-018a-4f2a-86c4-a3c28c914bfd" configVersion="b706131f457150428cb7f1a4026d284000000000"/>
+		<Metadata name="CommonModule.тм_РаботаСJSON.Module" id="c5475724-018a-4f2a-86c4-a3c28c914bfd.0" configVersion="ea857c4b1bef364397e42bb4ad50932c00000000"/>
+		<Metadata name="Configuration.Конфигурация" id="15646d6c-fc0a-41e8-8708-24d5dee2ad0f" configVersion="e2a0c807813e0745a5d73915c72f39ae00000000"/>
+		<Metadata name="HTTPService.HookUp" id="1851f038-231c-4b7e-b587-0e9f67b52c23" configVersion="a890011b036dc741a330b1ee49e2c32400000000">
+			<Metadata name="HTTPService.HookUp.URLTemplate.AuthWaiter.Method.POST" id="38a49cde-18ee-4210-b396-32c57b338939"/>
+			<Metadata name="HTTPService.HookUp.URLTemplate.AuthWaiter" id="64926add-da4f-4551-82d2-2e561da1c055"/>
+			<Metadata name="HTTPService.HookUp.URLTemplate.TelegramHook.Method.GET" id="9d04067d-8495-45eb-943e-8542f2e59d45"/>
+			<Metadata name="HTTPService.HookUp.URLTemplate.TelegramHook.Method.POST" id="b4de27df-52e5-42fc-a132-65437c410678"/>
+			<Metadata name="HTTPService.HookUp.URLTemplate.TelegramSendToUser" id="baa5108e-eadc-4f48-a283-35176e4f84ac"/>
+			<Metadata name="HTTPService.HookUp.URLTemplate.TelegramSendToUser.Method.POST" id="dc194060-36ab-47c1-b514-75ee6d7eca07"/>
+			<Metadata name="HTTPService.HookUp.URLTemplate.TelegramHook" id="eac8999f-da4f-4693-9483-7e8020f527c8"/>
+		</Metadata>
+		<Metadata name="HTTPService.HookUp.Module" id="1851f038-231c-4b7e-b587-0e9f67b52c23.0" configVersion="205675c29a43334fb218d7a566ca05cf00000000"/>
+		<Metadata name="InformationRegister.КодыАвторизацииСотрудников" id="445303a6-7768-4f93-ab26-fffdeebed404" configVersion="df237bcc50d1f243a4c3ec0b587ec9cd00000000">
+			<Metadata name="InformationRegister.КодыАвторизацииСотрудников.Dimension.КодСотрудника" id="0fc84ef0-969c-4877-b373-c23e1fe73279"/>
+			<Metadata name="InformationRegister.КодыАвторизацииСотрудников.Dimension.ОдноразовыйКод" id="a1aa7120-3477-4b22-9fbf-0acbccb6ccd9"/>
+			<Metadata name="InformationRegister.КодыАвторизацииСотрудников.Resource.Использован" id="a39dfa7e-98cb-4717-b455-d97a3a5b2ee0"/>
+			<Metadata name="InformationRegister.КодыАвторизацииСотрудников.Resource.ИмяСотрудника" id="ae45624a-9ee5-47e8-8c6c-e9081c1eb727"/>
+		</Metadata>
+		<Metadata name="InformationRegister.ОтладкаЗапросов" id="0adb7251-3824-4032-92d8-a34eaaff8c41" configVersion="1542ee658e9646449ad6608813d2269a00000000">
+			<Metadata name="InformationRegister.ОтладкаЗапросов.Attribute.Источник" id="0a900d39-f674-4bb2-83ce-5cab3ddde1cc"/>
+			<Metadata name="InformationRegister.ОтладкаЗапросов.Dimension.УИД" id="3724f7ed-a726-4663-986d-2ef50c56c7ce"/>
+			<Metadata name="InformationRegister.ОтладкаЗапросов.Resource.json" id="626e9041-62b9-4dd0-96bb-89870bcd77c1"/>
+			<Metadata name="InformationRegister.ОтладкаЗапросов.Dimension.Дата" id="aa224f7b-d0aa-4e83-b3b7-d9a25440d03f"/>
+		</Metadata>
+		<Metadata name="InformationRegister.СоответствиеАйдиКодСотрудника" id="68b28f19-4ed5-4094-89cd-fcb3fbcc7175" configVersion="f2770ea51bdc104eb49cc1be08bd274500000000">
+			<Metadata name="InformationRegister.СоответствиеАйдиКодСотрудника.Resource.КодСотрудника" id="00c3d6b3-a296-4eb3-8d76-6aa0039a534f"/>
+			<Metadata name="InformationRegister.СоответствиеАйдиКодСотрудника.Dimension.id" id="713aee3d-2ce9-44e2-af1f-50f6feba40d1"/>
+		</Metadata>
+		<Metadata name="Language.Русский" id="402d9333-33db-47dd-8835-3c9860ed1402" configVersion="7d6547a1a9590f4db8966ec5a9f7003b00000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
